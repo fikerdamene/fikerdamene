@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Fikre Damene
+- 👋 Hi, I’m Fikre Damene.
 - 👀 I’m interested in Economics and data analytics.
 - 🌱 I’m currently learning data analytics at University of Toronto data bootcamp.
 - 💞️ I’m looking to collaborate on creating new approaches to analyze raw data.
-- 📫 How to reach me
+- 📫 How to reach me:-
   Email: fikerdamene@gmail.com
   Linkedin: Fikre Damene
 
