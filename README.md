@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fikre Damene.
+- 👋 Hi, This is Fikre Damene. This is my first repo.
 - 👀 I’m interested in Economics and data analytics.
 - 🌱 I’m currently learning data analytics at University of Toronto data bootcamp.
 - 💞️ I’m looking to collaborate on creating new approaches to analyze raw data.
